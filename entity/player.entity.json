@@ -10,8 +10,8 @@
         "spectator": "player_spectator"
       },
       "textures": {
-        "default": "textures/entity/steve",
-        "cape": "textures/entity/cape_invisible"
+        "default": "textures/entity/custom",
+        "cape": "textures/entity/cape_visible"
       },
       "geometry": {
         "default": "geometry.humanoid.custom",
